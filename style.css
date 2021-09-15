@@ -1,0 +1,39 @@
+.Container{
+	text-align: center;
+	font-size: 2vw;
+
+}
+.content{
+	border-radius: 2vw;
+	background-color: #26FAED;
+	display: inline-block;
+	margin: auto;
+
+}
+.content:hover{
+	background-color: red;
+}
+input{
+	border-radius: 1vw;
+	font-size: 1.7vw;
+}
+table{
+	margin: auto;
+}
+
+button{
+	border-radius: 1vw;
+	cursor: pointer;
+	margin: 0.2vw;
+	width: 5vw;
+	height: 4vw;
+}
+button:hover{
+	background-color: grey;
+}
+body{
+	background-image: url('bg.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
